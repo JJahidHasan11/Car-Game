@@ -13,3 +13,22 @@ The game is a Cars themed racing game, where the player controls Lightning McQue
 • Open the files in PyCharm.
 • Run 'main.py'.
 • The game opens and you can explore the different features and play!
+
+Project Structure 
+
+
+The project has seven code files which are named car, game, gamemode, interface, main, multiplayer and powerups. In addition there are two file storing the images and the sounds used in the game.
+
+The car file is used to create the Car class, which is used to create cars in the other files.
+
+The game file takes care of the game itself, allowing the player to move their car and enabling the spawning of enemy cars and power ups.
+
+The gamemode file does the same for the special game mode, making sure the player can shoot at the incoming cars and bombs appearing on the road.
+
+Interface is used to display the other screens in the game like settings, credits, info, how to play, game, select difficulty and select game mode screen.
+
+The multiplayer file has the functionalities for the multiplayer game. It ensures that the two cars colors can be chosen in the beginning, the cars can't go through each other and at the end of a race there is a winner.
+
+Power ups are defined in the powerup file.
+
+Lastly, the main file is used for running the game.
