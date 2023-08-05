@@ -1,0 +1,43 @@
+----------------------------------------------------------------------------------------------------
+
+                                         🕹️ REQUIREMENTS 🕹️
+
+
+For this project we had some mandatory requisites that we implemented in the game. Here is a list of the functionalities we have in the game, some of them we added ourselves.
+
+----------------------------------------------------------------------------------------------------
+
+Power Ups:
+
+• Invincibility
+• Slowing
+• Double
+  - doubles the points accumulated for a limited time
+• Small
+  - minimizes the car for a limited time
+
+-----------------------------------------------------------------------------------------------------
+
+Game:
+
+• Multiplayer option
+• Creative UI, having the "Cars" movie theme
+  - player is controlling Lightning McQueen, themed backgrounds, music and cars
+• Instructions panel
+• Easy, normal and hard mode
+• Special game mode
+  - player can shoot at other cars
+  - bombs appear on the rode that end the game when crashed into
+• Player can adjust the sound
+• Players can choose the colors of their cars
+
+----------------------------------------------------------------------------------------------------
+
+Functional Limitations:
+
+• Car can't go outside the road
+• Car can move sideways, backwards and forward
+  - when player moves forward they move faster and when they move backward slower
+• In multiplayer, players can't go through each others cars
+
+----------------------------------------------------------------------------------------------------
